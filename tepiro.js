@@ -1,6 +1,6 @@
 // stringUtils.js
 // Utility functions for string manipulation
-// Author: [TuoNome] - For educational purposes only
+// For educational purposes only
 
 const StringUtils = {
   // Trims whitespace from both ends of the string
